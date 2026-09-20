@@ -1,0 +1,14 @@
+Feature,Importance
+PreviousExamScore,0.3789
+AssignmentScore,0.21354
+PracticeTestScore,0.19947
+StudyHours,0.10554
+Attendance,0.06038
+Age,0.01931
+Department_Commerce,0.00646
+Department_Mathematics,0.00366
+Department_Engineering,0.00358
+Gender_Female,0.00304
+Gender_Male,0.00292
+Department_Computer Science,0.002
+Department_Physics,0.0012
